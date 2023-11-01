@@ -7,3 +7,5 @@
 text newBranch
 
 local conflict
+
+web-conflict
