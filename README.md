@@ -6,4 +6,4 @@
 
 text newBranch
 
-разрешаем котфликт
+local conflict
